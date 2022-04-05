@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rubiktubik
 - 👀 I’m interested in Mobile App Development, Web Development, Software Architecture, Dev-Ops, Music, Sport
-- 🌱 I’m currently learning Kubernetes, Svelte, new way to improve software quality
+- 🌱 I’m currently learning Kubernetes, Svelte, new ways to improve software quality
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
   - rubiktubik@gmail.com and on twitter with @rubiktubik1
